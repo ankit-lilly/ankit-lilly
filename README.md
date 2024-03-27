@@ -4,7 +4,7 @@
 const ankit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Go", "Typescript", "PHP", "Ruby"],
-    askMeAbout: ["Vim", "Linux", "Shell", "Distros", "Window managers"],
+    askMeAbout: ["Web dev","Vim", "Linux", "Shell", "Distros", "Window managers"],
     technologies: {
         backEnd: [ "NodeJS", "Golang", "PHP", "Ruby"],
         frontEnd: ["React", "MPA", "PWA", "SPA" ],
